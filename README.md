@@ -6,3 +6,5 @@ The sheets are sorted in the order of the [CCNA Exam v1.1](https://learningconte
 ![](img/ccna_cs_1.1.png)
 
 I am not affiliated with Cisco "CCNA" and Cisco trademarks.
+
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
