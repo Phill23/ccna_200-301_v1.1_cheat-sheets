@@ -7,4 +7,4 @@ The sheets are sorted in the order of the [CCNA Exam v1.1](https://learningconte
 
 I am not affiliated with Cisco "CCNA" and Cisco trademarks.
 
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). "PacketLife pages © Jeremy Stretch, not covered by this license".
